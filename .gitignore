@@ -1,0 +1,14 @@
+.vs
+Logs
+obj
+Result
+Build
+*.pdf
+*.chm
+*.pdb
+*.docx
+Library
+Assets/EpicVictoryEffects
+Assets/NGUI
+Assets/ParticleShadersVol1
+Assets/Photon
